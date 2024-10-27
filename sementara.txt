@@ -1,0 +1,144 @@
+makanan
+indomie goreng
+original
+Rp5.000
+32
+
+makanan
+indomie goreng + telur
+original
+Rp7.000
+14
+
+makanan
+indomie goreng
+rendang
+Rp5.000
+15
+
+makanan
+indomie goreng + telur
+rendang
+Rp5.000
+12
+
+makanan
+indomie kuah
+soto lamongan
+Rp5.000
+18
+
+makanan
+indomie kuah
+ayam bawang
+Rp5.000
+23
+
+makanan
+magelangan
+pedas
+Rp7.000
+13
+
+makanan
+nasi ayam
+bakar
+Rp.9000
+24
+
+makanan
+nasi ayam
+goreng
+Rp9.000
+18
+
+makanan
+nasi goreng
+original
+Rp7.000
+12
+
+makanan
+nasi goreng
+sosis
+Rp9.000
+7
+
+minuman
+teh
+es
+Rp2.000
+8
+
+minuman
+teh
+hangat
+Rp2.000
+8
+
+minuman
+nutrisari
+mangga
+Rp3.000
+23
+
+minuman
+nutrisari
+jeruk nipis
+Rp3.000
+26
+
+minuman
+nutrisari
+jambu biji
+Rp3.000
+21
+
+minuman
+nutrisari
+mangga
+Rp3.000
+28
+
+minuman
+kopi
+good day
+Rp3.000
+18
+
+minuman
+kopi
+fresco
+Rp3.000
+31
+
+minuman
+kopi
+creamy latte
+Rp3.000
+38
+
+minuman
+kopi
+luwak white koffie
+Rp3.000
+21
+
+minuman
+kopi
+kapal api
+Rp3.000
+12
+
+minuman
+jus
+apel
+Rp5.000
+16
+
+minuman
+jus
+jeruk
+Rp5.000
+11
+
