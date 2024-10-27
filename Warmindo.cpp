@@ -10,7 +10,7 @@ const int barisDihapus = 6;
 int main() {
     int masukan;
     bool programMenu = true;
-    string kataSandi = "utaganteng", namaPengguna;
+    string kataSandi = "uta", namaPengguna;
 
     cout << "\n\n\n\n\tSilahkan login terlebih dahulu!" << endl;
     cout << "\tPassword : ";
